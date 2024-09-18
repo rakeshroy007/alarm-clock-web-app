@@ -3,7 +3,7 @@
 
 Welcome to the **Alarm Clock Web Application**! This project is a simple and interactive web-based alarm clock built using HTML, CSS, and JavaScript. It allows users to set alarms and receive notifications with customizable sounds.
 
-You can view the live version of the Alarm Clock Web App [Go live on Clock](https://rakesh-roy-65.github.io/alarm-clock-web-app/).
+You can view the live version of the Alarm Clock Web App [Go live on Clock](https://rakeshroy007.github.io/alarm-clock-web-app/).
 
 
 
